@@ -1,19 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  first_name: MyString
-  last_name: MyString
-  father_name: MyString
+  first_name: Alex
+  last_name: Emelyanov
+  father_name: Leonidovich
   birth_date: 2013-08-14
-  login: MyString
-  email: MyString
-  password: MyString
+  login: alex2000
+  email: alex@mail.com
+  password: topsecret
 
 two:
-  first_name: MyString
-  last_name: MyString
-  father_name: MyString
+  first_name: Ivan
+  last_name: Ivanov
+  father_name: Ivanovich
   birth_date: 2013-08-14
-  login: MyString
-  email: MyString
-  password: MyString
+  login: Ivan2000
+  email: ivan@mail.com
+  password: 123
